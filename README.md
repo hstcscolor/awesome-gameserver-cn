@@ -5,6 +5,7 @@
     - [网络](#网络)
     - [协议](#协议)
     - [持久化](#持久化)
+    - [Log](#Log)
     - [开源服务器](#开源服务器)
 
 ### 网络
@@ -39,6 +40,11 @@
     * [Dapper](https://github.com/StackExchange/Dapper) - 是一款轻量级ORM框架
 * Erlang
     * [mysql-otp](https://github.com/mysql-otp/mysql-otp) -  MySQL driver for Erlang/OTP
+
+### Log
+*Log*
+* C#
+    * [NLog](https://github.com/NLog/NLog) - 支持多平台的C# log库
 
 ### 开源服务器
 *各种开源游戏服务器*
