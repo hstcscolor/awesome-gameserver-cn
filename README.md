@@ -11,7 +11,10 @@
 * Java
     * [Netty](https://github.com/netty/netty) - Netty是一个高性能、异步事件驱动的NIO框架，它提供了对TCP、UDP和文件传输的支持
     * [Mina](https://github.com/apache/mina) - Apache Mina是一个能够帮助用户开发高性能和高伸缩性网络应用程序的框架
-
+* C++
+    * [libevent](http://libevent.org/) - libevent是一个轻量级的基于事件驱动的高性能的开源网络库,并且支持多个平台
+    * [libev](http://software.schmorp.de/pkg/libev.html) - 较libevent而言，设计更简练，性能更好，但对Windows支持不够好
+    * [libuv](https://github.com/libuv/libuv) - libuv 是 Node 的新跨平台抽象层,用于抽象 Windows 的 IOCP 及 Unix 的 libev
 
 ### 协议
 *协议*
