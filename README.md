@@ -18,6 +18,10 @@
 * Python
     * [Twisted](http://twistedmatrix.com/) - Twisted是用Python实现的基于事件驱动的网络引擎框架
     * [Gevent](http://www.gevent.org/) - Gevent是一种基于协程的Python网络库，它用到Greenlet提供的，封装了libevent事件循环的高层同步API
+* Erlang
+    * [ranch](https://github.com/ninenines/ranch) - cowboy 项目下的Tcp网络库
+* C#
+    * [DotNetty](https://github.com/Azure/DotNetty) - netty 的C#版
 
 ### 协议
 *协议*
