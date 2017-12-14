@@ -4,6 +4,7 @@
 - [游戏服务器资源大全]()
     - [网络](#网络)
     - [协议](#协议)
+    - [持久化](#持久化)
     - [开源服务器](#开源服务器)
 
 ### 网络
@@ -29,6 +30,15 @@
 * [FlatBuffers](https://github.com/google/flatbuffers) - Google出品，专门为游戏开发或其他性能敏感的应用程序需求而创建
 * [Json](http://www.json.org/) - 这个算凑数吗？
 * [MessagePack](https://msgpack.org/) - It's like JSON. but fast and small.
+
+### 持久化
+*持久化框架*
+* Java
+    * [MyBatis](https://github.com/mybatis/mybatis-3) - 一个支持普通SQL查询,存储过程和高级映射的优秀持久层框架
+* C#
+    * [Dapper](https://github.com/StackExchange/Dapper) - 是一款轻量级ORM框架
+* Erlang
+    * [mysql-otp](https://github.com/mysql-otp/mysql-otp) -  MySQL driver for Erlang/OTP
 
 ### 开源服务器
 *各种开源游戏服务器*
