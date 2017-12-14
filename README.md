@@ -22,3 +22,4 @@
 * [ryzomcore](https://github.com/ryzom/ryzomcore) - 分布式的游戏服务器，ryzom 的官方开源
 * [kbengine](https://github.com/kbengine/kbengine) - 一款开源的MMOG游戏服务端引擎， 仅Python脚本即可简单高效的完成任何游戏逻辑(支持热更新)
 * [mqant](https://github.com/liangdas/mqant) - mqant是一款基于Golang语言的简洁,高效,高性能的分布式游戏服务器框架
+* [MaNGOS](https://github.com/mangos/MaNGOS) - 开源的魔兽服务器
