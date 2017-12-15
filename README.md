@@ -9,6 +9,7 @@
     - [游戏AI](#游戏AI)
     - [工具库](#工具库)
     - [开源服务器](#开源服务器)
+    - [学习资源](#学习资源)
 
 ### 网络
 *网络相关的库和工具*
@@ -77,3 +78,4 @@
 * [kbengine](https://github.com/kbengine/kbengine) - 一款开源的MMOG游戏服务端引擎， 仅Python脚本即可简单高效的完成任何游戏逻辑(支持热更新)
 * [mqant](https://github.com/liangdas/mqant) - mqant是一款基于Golang语言的简洁,高效,高性能的分布式游戏服务器框架
 * [MaNGOS](https://github.com/mangos/MaNGOS) - 开源的魔兽服务器
+* [xingo](https://github.com/viphxin/xingo) - 高性能golang网络库，游戏开发脚手架 
