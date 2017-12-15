@@ -37,6 +37,7 @@
 *持久化框架*
 * Java
     * [MyBatis](https://github.com/mybatis/mybatis-3) - 一个支持普通SQL查询,存储过程和高级映射的优秀持久层框架
+    * [druid](https://github.com/alibaba/druid) - 阿里巴巴出品 数据库连接池 
 * C#
     * [Dapper](https://github.com/StackExchange/Dapper) - 是一款轻量级ORM框架
 * Erlang
