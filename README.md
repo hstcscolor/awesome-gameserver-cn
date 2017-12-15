@@ -59,7 +59,7 @@
 * [gdx-ai](https://github.com/libgdx/gdx-ai) - libgdx下的一个ai系统（非常适合参考学习） 
 * [recastnavigation](https://github.com/recastnavigation/recastnavigation) - 非常高效的寻路系统，和Unity的寻路算法几乎一样
 * [Serpent.AI](https://github.com/SerpentAI/SerpentAI) - 游戏代理框架，适合写外挂
-* [https://github.com/Tencent/behaviac/](https://github.com/Tencent/behaviac/) - 腾讯开源的行为树框架
+* [behaviac](https://github.com/Tencent/behaviac/) - 腾讯开源的行为树框架
 
 ### 工具库
 *工具库*
