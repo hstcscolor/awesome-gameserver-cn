@@ -7,6 +7,7 @@
     - [持久化](#持久化)
     - [Log](#Log)
     - [游戏AI](#游戏AI)
+    - [工具库](#工具库)
     - [开源服务器](#开源服务器)
 
 ### 网络
@@ -45,6 +46,8 @@
 
 ### Log
 *Log*
+* Java
+    * [Log4j](https://github.com/apache/log4j) - Apache log4j
 * C#
     * [NLog](https://github.com/NLog/NLog) - 支持多平台的C# log库
 * Erlang 
@@ -57,6 +60,12 @@
 * [Serpent.AI](https://github.com/SerpentAI/SerpentAI) - 游戏代理框架，适合写外挂
 * [https://github.com/Tencent/behaviac/](https://github.com/Tencent/behaviac/) - 腾讯开源的行为树框架
 
+### 工具库
+*工具库*
+* Java
+    * [disruptor](https://github.com/LMAX-Exchange/disruptor) - 性能高效的线程间通讯库
+    * [guava](https://github.com/google/guava) - Google出品的Java工具库 
+    
 ### 开源服务器
 *各种开源游戏服务器*
 * [pomelo](https://github.com/NetEase/pomelo) - 网易出品的Node.js游戏服务器框架
