@@ -49,11 +49,11 @@
 
 ### 游戏AI 
 *游戏AI*
-* C#
-    * [gdx-ai](https://github.com/libgdx/gdx-ai) - libgdx下的一个ai系统（非常适合参考学习） 
-    * [recastnavigation](https://github.com/recastnavigation/recastnavigation) - 非常高效的寻路系统，和Unity的寻路算法几乎一样
-    * [Serpent.AI](https://github.com/SerpentAI/SerpentAI) - 游戏代理框架，适合写外挂
-    
+* [gdx-ai](https://github.com/libgdx/gdx-ai) - libgdx下的一个ai系统（非常适合参考学习） 
+* [recastnavigation](https://github.com/recastnavigation/recastnavigation) - 非常高效的寻路系统，和Unity的寻路算法几乎一样
+* [Serpent.AI](https://github.com/SerpentAI/SerpentAI) - 游戏代理框架，适合写外挂
+* [https://github.com/Tencent/behaviac/](https://github.com/Tencent/behaviac/) - 腾讯开源的行为树框架
+
 ### 开源服务器
 *各种开源游戏服务器*
 * [pomelo](https://github.com/NetEase/pomelo) - 网易出品的Node.js游戏服务器框架
