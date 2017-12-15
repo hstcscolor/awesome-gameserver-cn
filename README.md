@@ -46,6 +46,8 @@
 *Log*
 * C#
     * [NLog](https://github.com/NLog/NLog) - 支持多平台的C# log库
+* Erlang 
+    * [Lager](https://github.com/erlang-lager/lager) - A logging framework for Erlang/OTP
 
 ### 游戏AI 
 *游戏AI*
