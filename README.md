@@ -9,6 +9,7 @@
     - [游戏AI](#游戏AI)
     - [工具库](#工具库)
     - [开源服务器](#开源服务器)
+    - [运维](#运维)
     - [学习资源](#学习资源)
 
 ### 网络
@@ -67,6 +68,7 @@
     * [disruptor](https://github.com/LMAX-Exchange/disruptor) - 性能高效的线程间通讯库
     * [guava](https://github.com/google/guava) - Google出品的Java工具库 
     
+ 
 ### 开源服务器
 *各种开源游戏服务器*
 * [pomelo](https://github.com/NetEase/pomelo) - 网易出品的Node.js游戏服务器框架
@@ -81,3 +83,8 @@
 * [xingo](https://github.com/viphxin/xingo) - 高性能golang网络库，游戏开发脚手架 
 * [cuberite](https://github.com/cuberite/cuberite) - 我的世界 的开源服务器 
 * [leaf](https://github.com/name5566/leaf) - 用Golang写的gameserver 
+
+### 运维
+*运维工具*
+* [LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - Linux Game Server Managers 
+* [fabric](https://github.com/fabric/fabric) - 远程执行命令 
