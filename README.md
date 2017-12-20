@@ -79,3 +79,4 @@
 * [mqant](https://github.com/liangdas/mqant) - mqant是一款基于Golang语言的简洁,高效,高性能的分布式游戏服务器框架
 * [MaNGOS](https://github.com/mangos/MaNGOS) - 开源的魔兽服务器
 * [xingo](https://github.com/viphxin/xingo) - 高性能golang网络库，游戏开发脚手架 
+* [cuberite](https://github.com/cuberite/cuberite) - 我的世界 的开源服务器 
