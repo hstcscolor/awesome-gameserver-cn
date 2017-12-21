@@ -88,3 +88,7 @@
 *运维工具*
 * [LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - Linux Game Server Managers 
 * [fabric](https://github.com/fabric/fabric) - 远程执行命令 
+
+### 学习资源
+*学习资源*
+* [Game Programming Patterns](http://gameprogrammingpatterns.com/) 游戏编程模式
