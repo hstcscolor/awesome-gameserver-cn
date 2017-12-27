@@ -92,3 +92,4 @@
 ### 学习资源
 *学习资源*
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/) 游戏编程模式
+* [game-programmer](https://github.com/miloyip/game-programmer) A Study Path for Game Programmer
