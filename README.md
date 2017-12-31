@@ -93,3 +93,5 @@
 *学习资源*
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/) 游戏编程模式
 * [game-programmer](https://github.com/miloyip/game-programmer) A Study Path for Game Programmer
+* [entity-systems](http://entity-systems.wikidot.com/) 实体系统
+* [data-oriented-design](http://www.dataorienteddesign.com/dodmain/) 面向数据的设计
