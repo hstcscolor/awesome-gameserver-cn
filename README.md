@@ -11,6 +11,7 @@
     - [开源服务器](#开源服务器)
     - [运维](#运维)
     - [学习资源](#学习资源)
+    - [其他](#其他)
 
 ### 网络
 *网络相关的库和工具*
@@ -95,3 +96,6 @@
 * [game-programmer](https://github.com/miloyip/game-programmer) A Study Path for Game Programmer
 * [entity-systems](http://entity-systems.wikidot.com/) 实体系统
 * [data-oriented-design](http://www.dataorienteddesign.com/dodmain/) 面向数据的设计
+
+### 其他
+* [games](https://github.com/leereilly/games) github上的一个游戏列表
