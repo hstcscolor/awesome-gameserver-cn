@@ -55,6 +55,10 @@
     * [NLog](https://github.com/NLog/NLog) - 支持多平台的C# log库
 * Erlang 
     * [Lager](https://github.com/erlang-lager/lager) - A logging framework for Erlang/OTP
+* Golang
+    * [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go
+    * [zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go
+
 
 ### 游戏AI 
 *游戏AI*
