@@ -46,6 +46,8 @@
     * [Dapper](https://github.com/StackExchange/Dapper) - 是一款轻量级ORM框架
 * Erlang
     * [mysql-otp](https://github.com/mysql-otp/mysql-otp) -  MySQL driver for Erlang/OTP
+* Golang 
+    * [go-sql-driver](https://github.com/go-sql-driver/mysql) -  MySQL driver for Golang
 
 ### Log
 *Log*
