@@ -90,7 +90,7 @@
 * [xingo](https://github.com/viphxin/xingo) - 高性能golang网络库，游戏开发脚手架 
 * [cuberite](https://github.com/cuberite/cuberite) - 我的世界 的开源服务器 
 * [leaf](https://github.com/name5566/leaf) - 用Golang写的gameserver 
-* [leaf](https://github.com/zllangct/RockGO) - 基于ECS，用Golang写的gameserver 
+* [RockGO](https://github.com/zllangct/RockGO) - 基于ECS，用Golang写的gameserver 
 
 
 ### 运维
