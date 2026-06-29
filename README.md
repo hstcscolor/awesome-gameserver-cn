@@ -161,6 +161,7 @@
 
 ### 运维
 *运维工具*
+* [Flowtriq Pterodactyl](https://github.com/Flowtriq/flowtriq-pterodactyl) - Pterodactyl 面板的 DDoS 检测集成，支持游戏服务器端口自动同步与实时流量告警
 * [LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - Linux Game Server Managers
 * [fabric](https://github.com/fabric/fabric) - 远程执行命令
 * [Ansible](https://github.com/ansible/ansible) - 无代理的自动化运维工具
