@@ -140,6 +140,7 @@
 * [xingo](https://github.com/viphxin/xingo) - 高性能golang网络库，游戏开发脚手架
 * [cuberite](https://github.com/cuberite/cuberite) - 我的世界 的开源服务器
 * [leaf](https://github.com/name5566/leaf) - 用Golang写的gameserver
+* [GameFrameX](https://github.com/GameFrameX/GameFrameX) - 跨引擎游戏全流程框架：Unity/Godot 客户端 + Actor 模型 .NET 服务器，一套 ProtoBuf 协议与 LuBan 配置贯穿全端，双端热更新；内置 AI 协作指令文档（AGENTS.md/CLAUDE.md），AI 编程助手克隆即可上手
 * [RockGO](https://github.com/zllangct/RockGO) - 基于ECS，用Golang写的gameserver
 * [NettyGameServer](https://github.com/jwpttcg66/NettyGameServer) - 使用netty4.X实现的手机游戏分布式服务器
 * [due](https://github.com/dobyte/due) - 一款基于Go语言开发的轻量级分布式游戏服务器框架
