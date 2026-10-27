@@ -179,6 +179,7 @@
 * [Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html) - 客户端-服务器架构经典系列文章
 * [Awesome GameDev](https://github.com/Calinou/awesome-gamedev) - 综合 gamedev 资源合集
 * [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - C++ 资源合集，含游戏方向
+* [RespawnStack](https://respawnstack.com) - AI tools directory for game developers
 
 ### 其他
 * [games](https://github.com/leereilly/games) github上的一个游戏列表
